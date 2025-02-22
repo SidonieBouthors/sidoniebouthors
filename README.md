@@ -24,14 +24,11 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white)
-
 ![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330) 
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![sass](https://img.shields.io/badge/Sass-C69?style=for-the-badge&logo=sass&logoColor=white)
 ![nextjs](https://img.shields.io/badge/next%20js-5c72e4?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-
-
 ![godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white) 
 ![inkscape](https://img.shields.io/badge/Inkscape-202d40?style=for-the-badge&logo=Inkscape&logoColor=white) 
