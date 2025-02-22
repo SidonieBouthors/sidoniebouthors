@@ -10,11 +10,11 @@
 
 ---
 
-<a href="https://sidonie.me"><img src="https://raw.githubusercontent.com/SidonieBouthors/sidonie.me/refs/heads/main/public/logo.svg" height=70></a>
+<a href="https://sidonie.me"><img src="https://raw.githubusercontent.com/SidonieBouthors/sidonie.me/refs/heads/main/public/logo.svg" height=50></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://clic.epfl.ch"><img src="https://raw.githubusercontent.com/clicepfl/s4s-2024/refs/heads/main/app/public/clic.svg" height=50></a>
+<a href="https://clic.epfl.ch"><img src="https://raw.githubusercontent.com/clicepfl/s4s-2024/refs/heads/main/app/public/clic.svg" height=30></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://students4students.ch"><img src="https://raw.githubusercontent.com/SidonieBouthors/S4S-images/refs/heads/main/logo-s4s.svg" height=50></a>
+<a href="https://students4students.ch"><img src="https://raw.githubusercontent.com/SidonieBouthors/S4S-images/refs/heads/main/logo-s4s.svg" height=30></a>
 
 ---
 
