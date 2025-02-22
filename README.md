@@ -1,3 +1,5 @@
+# Sidonie Bouthors
+
 📚 Learning Rust <br>
 🌐 Making tools for CLIC <br>
 ⚙️ Exploring compilers <br>
